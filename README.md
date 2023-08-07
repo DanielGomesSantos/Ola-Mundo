@@ -24,6 +24,6 @@ num | nome | nota
 1 | Daniel | 8,4
 2 | Ellen | 10
 ---
-Nâo sou bom fazendo projeto  em `java`
+Não sou bom fazendo projeto  em `java`
 --
 Olá meus amigos🎱 
